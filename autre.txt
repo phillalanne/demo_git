@@ -1,1 +1,2 @@
 ceci est un fichier texte	
+ceci est la 2eme ligne du fichier
